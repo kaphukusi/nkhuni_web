@@ -248,7 +248,7 @@ padding-top: 0px;
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus, 
 .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus,
 .navbar-inverse .navbar-nav > .active > a{
-	background: ;
+	background: #3d84e6;
 	color: #fff !important;
     border-radius: 0px;
 } 
